@@ -1,0 +1,31 @@
+body{
+margin: 0;
+}
+
+main {
+display: inline-block;
+}
+
+#doglopedia {
+background-color: rgba(238, 228, 139, 0,5);
+height: ;
+
+}
+
+nav {
+color: grey;
+text-decoration: none;
+border-bottom: 1px grey solid;
+
+}
+
+#image{
+background-image: url(/images/Fransk\ Bulldogg.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+height: 300px;
+width: 300px;
+border-radius: 50%;
+
+}
