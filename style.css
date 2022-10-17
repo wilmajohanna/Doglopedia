@@ -12,9 +12,9 @@ display: inline-block;
 }
 
 #doglopedia {
-background-color: rgba(238, 228, 139, 0.5);
+background-color: rgba(219, 213, 152, 0.3);
 height: 100px;
-color: rgb(182, 172, 85);
+color: rgb(148, 118, 83);
 text-align: center;
 }
 
@@ -22,15 +22,16 @@ h1 {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    border-top: 1px solid lightgrey;
 }
 
 a {
     display: inline-block;
     color: grey;
     text-decoration: none;
-    border-bottom: 1px grey solid;
+    border-bottom: 1px  solid lightgrey;
     text-align: center;
-    
+
 }
 
 #image{
