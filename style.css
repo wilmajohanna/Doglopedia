@@ -17,6 +17,9 @@ background-color: rgba(219, 213, 152, 0.3);
 height: 100px;
 color: rgb(148, 118, 83);
 text-align: center;
+padding-top: 20px;
+padding-bottom: 50px;
+margin-top: 10px;
 }
 
 h1 {
@@ -27,22 +30,22 @@ h1 {
 
 a {
     padding: 10px;
-    color: grey;
+    color: rgb(61, 61, 61);
+    text-decoration-style: dotted;
 }
 nav{
     display: inline-block;
     margin-top: 10px;
     margin-bottom: 10px;
-    text-align: center;
     margin-left:  150px;
-    text-decoration: dotted;
 }
 
-hr{
-    color: rgba(211, 211, 211, 0.603);
+hr {
+    color: rgba(189, 189, 189, 0.4);
+    border-bottom: 0.8px;
 }
 
-#image{
+#image {
 background-image: url(/images/Fransk\ Bulldogg.jpeg);
 background-repeat: no-repeat;
 background-size: cover;
@@ -50,11 +53,14 @@ background-position: center;
 height: 300px;
 width: 300px;
 border-radius: 50%;
+border: 1px solid black ;
 margin-left: auto;
 margin-right: auto;
 }
 
-.dog {
+footer {
     text-align: center;
-    color: grey;
+    color: black;
+    margin-top: 30px;
+    margin-bottom: 40px;
 }
