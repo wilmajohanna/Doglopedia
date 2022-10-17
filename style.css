@@ -4,6 +4,7 @@ height: 600px;
 width: 600px;
 margin-left: auto;
 margin-right: auto;
+font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 
@@ -22,16 +23,23 @@ h1 {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    border-top: 1px solid lightgrey;
 }
 
 a {
-    display: inline-block;
+    padding: 10px;
     color: grey;
-    text-decoration: none;
-    border-bottom: 1px  solid lightgrey;
+}
+nav{
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
     text-align: center;
+    margin-left:  150px;
+    text-decoration: dotted;
+}
 
+hr{
+    color: rgba(211, 211, 211, 0.603);
 }
 
 #image{
@@ -46,6 +54,7 @@ margin-left: auto;
 margin-right: auto;
 }
 
-footer{
-    border-bottom: 1px grey solid;
+.dog {
+    text-align: center;
+    color: grey;
 }
