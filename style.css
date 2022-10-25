@@ -33,6 +33,7 @@ a {
     color: rgb(61, 61, 61);
     text-decoration-style: dotted;
 }
+
 nav{
     display: inline-block;
     margin-top: 20px;
@@ -46,7 +47,7 @@ hr {
 }
 
 #image {
-background-image: url(/images/Fransk\ Bulldogg.jpeg);
+background-image: url(images/Fransk\ Bulldogg.jpeg);
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
